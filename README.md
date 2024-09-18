@@ -31,7 +31,8 @@
     ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
     ![Oracle](https://img.shields.io/badge/Oracle-CC2927?style=for-the-badge&logo=oracle&logoColor=white) 
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
+    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+    ![Django](https://img.shields.io/badge/Django-%234ea94b.svg?&style=for-the-badge&logo=django&logoColor=white)
     
 - **Application and Tools:**
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
