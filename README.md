@@ -61,6 +61,9 @@
   </a>
 </div>
 
+## Hacktoberfest 2024 Badges
+[![An image of @ruchikakengal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchikakengal)](https://holopin.io/@ruchikakengal)
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
