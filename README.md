@@ -15,7 +15,14 @@
 - ⚡ About Me: *Tech enthusiast and CSE student skilled in programming and innovation*
 - 📍 From **India**
 ## Connect with me 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ruchika-kengal-8085092b7/)](www.linkedin.com/in/ruchika-kengal-8085092b7/)
+<div id="badges" align = "left">
+   <a href="https://github.com/ruchikakengal">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+ <a href="https://www.linkedin.com/in/ruchika kengal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>  
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 -  **Languages:**
@@ -87,7 +94,13 @@
 </table>
 </br>
 
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Turn+challenges....;into+opportunities.....;+with+code..." alt="Typing SVG"/>
+    </h1>
+</div>
+
 <p align="center">
-  <b>Thank you for visiting my profile!😊</b>
+  <b>Thank you for visiting my profile!😊 Keep Exploring! Keep Contributing!</b>
 </p>
 </p>
