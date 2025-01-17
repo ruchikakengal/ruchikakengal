@@ -105,9 +105,16 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+</br>
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api?username=ruchikakengal&show_icons=true&locale=en&theme=ambient_gradient" alt="Profile Summary">
+</td>
+</tr>
+</table>
 
 <br />
-
 <table width="100%" align="center">
 <tr>
 <td>
