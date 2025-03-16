@@ -20,7 +20,7 @@
    <a href="https://github.com/ruchikakengal">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
- <a href="www.linkedin.com/in/ruchika-kengal-8085092b7">
+ <a href="[www.linkedin.com/in/ruchika-kengal-8085092b7](https://www.linkedin.com/in/ruchika-kengal-8085092b7/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  </div>  
