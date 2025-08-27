@@ -87,6 +87,9 @@
 </p>
 
 
+
+
+
 ## GSSOC EXT 2024 Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
@@ -100,6 +103,9 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   </a>
 </div>
+
+
+
 
 ## Hacktoberfest 2024 Badges
 [![An image of @ruchikakengal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchikakengal)](https://holopin.io/@ruchikakengal)
