@@ -6,16 +6,22 @@
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🔭 I’m currently Studying in B-TECH 3rd year CSE
+- 🔭 I’m currently Studying in B-TECH 3rd year CSE , learning Advanced AI techniques and RAG systems
+
+- 👯 I'm looking to collaborate on Innovative Open Source Projects
 
 - 🌱 I’m currently learning Full Stack Web Development | MERN
   
-- 💬 Ask me about *Web development, C,C++,PYTHON, OOPS*
+- 💬 Ask me about   **AI/ML,Web development, C,C++,PYTHON, OOPS**
   
 - 🌎 I know **English, Hindi, Marathi, and Telugu.**
   
+- ⚡ Fun fact: I can turn coffee into code and data into insights!
+  
 - ⚡ About Me: *Tech enthusiast and CSE student skilled in programming and innovation*
+  
 - 📍 From **India**
+  
 ## Connect with me 
 <div id="badges" align = "left">
    <a href="https://github.com/ruchikakengal">
