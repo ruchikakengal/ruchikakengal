@@ -111,8 +111,6 @@
 </div>
 
 
-
-
 ## Hacktoberfest 2024 Badges
 [![An image of @ruchikakengal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchikakengal)](https://holopin.io/@ruchikakengal)
 
@@ -149,9 +147,4 @@
   <b>Thank you for visiting my profile!😊 Keep Exploring! Keep Contributing!</b>
 </p>
 </p>
-
-
-
-
-
 
