@@ -146,6 +146,6 @@
 
 
 <p align="center">
-  <b>Thank you for visiting my profile!😊 Keep Exploring! Keep Contributing!</b>
+  <b>💜 Thanks for visiting! Keep Coding • Keep Growing • Keep Shining 🚀</b>
 </p>
 </p> 
