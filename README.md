@@ -121,21 +121,22 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruchikakengal&theme=2077" alt="Profile Summary">
+  <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ruchikakengal&theme=2077" alt="Profile Summary">
 </td>
 </tr>
 </table>
+
 <table width="100%" align="center">
 <tr>
 <td>
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=ruchikakengal&show_icons=true&locale=en&theme=midnight-purple" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchikakengal&theme=midnight-purple" alt="Streak Stats"/>
+  <img width="420em" src="https://streak-stats.demolab.com?user=ruchikakengal&theme=midnight-purple" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
-</br>
+
 
 
 <div align="center">
