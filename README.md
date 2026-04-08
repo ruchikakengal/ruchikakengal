@@ -6,15 +6,15 @@
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🔭 I’m currently Studying in B-TECH 3rd year CSE , learning Advanced AI techniques and RAG systems
+- 🔭 I’m currently Studying in B.Tech CSE (Final Year) , Exploring AI, RAG Systems & Advanced Tech 
 
 - 👯 I'm looking to collaborate on Innovative Open Source Projects
 
 - 🌱 I’m currently learning Full Stack Web Development | MERN
   
-- 💬 Ask me about   **AI/ML,Web development, C,C++,PYTHON, OOPS**
+- 💬 Ask me about   **Web development, C,C++,PYTHON, OOPS,AI/ML**
   
-- 🌎 I know **English, Hindi, Marathi, and Telugu.**
+- 🌎 I know **English,Telugu, Hindi and Marathi.**
   
 - ⚡ Fun fact: I can turn coffee into code and data into insights!
   
