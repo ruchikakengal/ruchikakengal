@@ -6,21 +6,19 @@
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🔭 I’m currently Studying in B.Tech CSE (Final Year) , Exploring AI, RAG Systems & Advanced Tech 
+- 🌱 Currently building and developing myself as a Software Developer
 
-- 👯 I'm looking to collaborate on Innovative Open Source Projects
+- ⚡ About Me: Tech enthusiast, problem solver & continuous learner
 
-- 🌱 I’m currently learning Full Stack Web Development | MERN
-  
-- 💬 Ask me about   **Web development, C,C++,PYTHON, OOPS,AI/ML**
-  
-- 🌎 I know **English,Telugu, Hindi and Marathi.**
-  
-- ⚡ Fun fact: I can turn coffee into code and data into insights!
-  
-- ⚡ About Me: *Tech enthusiast and CSE student skilled in programming and innovation*
-  
-- 📍 From **India**
+- 💎 Value innovation, ownership, teamwork, and continuous improvement
+
+- 📈 Skills: C, C++, Python, React.js, MERN, OOP, AI/ML, Git & GitHub
+
+- 🚀 Exploring: AI, RAG Systems, Full Stack Development & Emerging Technologies
+
+- 🤝 Open to: Collaborating on innovative Open Source Projects
+
+- 📍 Location: India 
   
 ## Connect with me 
 <div id="badges" align = "left">
