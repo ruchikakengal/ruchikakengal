@@ -6,7 +6,7 @@
 <img align="right" alt="coding" width="400"  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
-- 🌱 Currently building and developing myself as a Software Developer
+- 🌱 Currently building and developing Myself as a Software Developer
 
 - ⚡ About Me: Tech enthusiast, problem solver & continuous learner
 
