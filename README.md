@@ -96,7 +96,17 @@
 
 
 ## GSSOC EXT 2024 Badges 🪶
-<div align="center"> <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100" height="100" alt="Hack Web3Conf 2024 Badge" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" alt="Postman Badge" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100" height="100" alt="Postman Badge 1" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100" height="100" alt="Postman Badge 2" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100" height="100" alt="Postman Badge 3" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100" height="100" alt="Postman Badge 4" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100" height="100" alt="Postman Badge 5" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="100" height="100" alt="Postman Badge 6" /> <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/main/assets/Git%20Explorer.png" width="100" height="100" alt="Git Explorer Badge" /> </div>
+<div style='display:flex; align-items:center; gap: 5px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024&username=Hemu21">
+<img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/postman.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/1.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/2.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/3.png" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/4.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/5.png" width="85px" height="85px" />
+  <img src="https://github.com/hemanthkumar-21/hemanthkumar-21/blob/main/assets/6.png" width="85px" height="85px" />
+</div>
+   
+
 
 ## Hacktoberfest 2024 Badges
 [![An image of @ruchikakengal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ruchikakengal)](https://holopin.io/@ruchikakengal)
