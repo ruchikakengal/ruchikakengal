@@ -8,7 +8,7 @@
 
 - 🎓 B.Tech Computer Science & Engineering Graduate | Class of 2026
 
-- 🌱 Currently building and developing Myself as a Software Developer
+- 🌱 Sharpening my MERN & AI/ML skills by building hands-on applications
 
 - ⚡ About Me: Tech enthusiast, problem solver & continuous learner
 
@@ -16,7 +16,7 @@
 
 - 📈 Skills: C, C++, Python, React.js, MERN, OOP, AI/ML, Git & GitHub
 
-- 🚀 Exploring: AI, RAG Systems, Full Stack Development & Emerging Technologies
+- 🚀 Exploring: Generative AI, RAG & Modern Web Tech
 
 - 🤝 Open to: Collaborating on innovative Open Source Projects
 
